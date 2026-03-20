@@ -51,7 +51,7 @@ TensorFlow version note:
 
 Use the hosted app directly:
 
-`https://hatespeechpy.streamlit.app/`
+[https://hatespeechpy.streamlit.app/](https://hatespeechpy.streamlit.app/)
 
 Or start the app locally from the project folder:
 
