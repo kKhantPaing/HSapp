@@ -1,4 +1,4 @@
-# HSapp
+# Hate Speech app
 
 HSapp is a small Streamlit web app for detecting toxic Myanglish text.
 
