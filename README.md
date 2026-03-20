@@ -49,7 +49,11 @@ TensorFlow version note:
 
 ## Run the App
 
-Start the app from the project folder:
+Use the hosted app directly:
+
+`https://hatespeechpy.streamlit.app/`
+
+Or start the app locally from the project folder:
 
 ```bash
 streamlit run app.py
@@ -80,7 +84,7 @@ http://localhost:8501
 
 ## Usage
 
-1. Run the app with `streamlit run app.py`.
+1. Open the hosted app at `https://hatespeechpy.streamlit.app/` or run it locally with `streamlit run app.py`.
 2. Type a Myanglish sentence into the input box.
 3. The app predicts whether the text is toxic or not.
 
